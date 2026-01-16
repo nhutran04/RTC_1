@@ -1,3 +1,4 @@
+* Chủ đề: Sử dụng chức năng tạo số ngẫu nhiên RNG của phần cứng STM32.
 * Chức năng: Tạo giá trị ngẫu nhiên dùng Hardware của STM32, hiển thị lên Hercules.
 * Cách sử dụng: 
 1. Mở file cấu hình (.ioc) để xem cấu hình nối các chân I2C (PB10 và PB11)
